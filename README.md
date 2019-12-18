@@ -1,2 +1,2 @@
-# MyTechWriting
- 
+# Samples
+Anu Ramanathan's Writing Samples
