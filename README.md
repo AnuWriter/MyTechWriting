@@ -1,5 +1,5 @@
 # Samples
-Anu Ramanathan's Technical Writing Samples  
+Anu Ramanathan's Writing Samples  
 
 
 ### Copyright 2019-perpetuity
