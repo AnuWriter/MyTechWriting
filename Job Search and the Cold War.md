@@ -1,9 +1,12 @@
 # An Escalating weapons race between applicants and Applicant Tracking Systems (ATSs)
 
 ## Disclaimer: *This is specifically true to my personal experience in the IT fields, especially programming.* *I do not know* *how true it may be for other career paths.*
-## **Note:** The writer is aware of the irony of anthropomorphizing programs (ATSs) that are created by humans to track equally human job applicants.
+#### *Note:* The writer is aware of the irony of anthropomorphizing programs (ATSs) that are created by humans to track equally human job applicants.
 
-- First there were keywords that the ATSs relied on. Applicants started putting in keywords into their project descriptions. 
+- In the beginning there were only the human recruiters.
+- Then in response to overwhelming numbers of applicants for each job they commissioned Applicant Tracking Systems (ATSs).
+- The ATSs were quite primitive and did not do a good enough job of culling applicants that the human recruiters could handle the rest.
+- So keywords were added for the ATSs to rely on. Applicants started putting in keywords into their project descriptions. 
   - Advantage applicants.
 - Then ATSs moved to counting the number of times keywords appeared in a document so applicants started putting them in hidden and non-printable text. Humans could not see them but the text was not hidden from the ATSs. 
   - Advantage applicants.
